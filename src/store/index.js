@@ -20,7 +20,7 @@ export default new Vuex.Store({
         error: null, // Used to store information about errors that occur.
         user: [],
         reconnect: false,
-        activeroom: null,
+        activeRoom: null,
         rooms: [],
         users: [],
         messages: [],
